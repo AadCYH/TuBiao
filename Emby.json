@@ -15,8 +15,8 @@
       "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/atv.jpeg"
     },
     {
-      "name": "ATV短剧",
-      "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/atvdj.jpeg"
+      "name": "ATVD",
+      "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/atvd.jpeg"
     },
     {
       "name": "ATVK",
@@ -109,6 +109,10 @@
     {
       "name": "守候",
       "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/sntp.jpeg"
+    },
+	{
+      "name": "守候+",
+      "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/sntpl.jpeg"
     },
     {
       "name": "星瀚",
