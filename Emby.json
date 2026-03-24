@@ -3,6 +3,18 @@
   "description": "按照图标JPEG名称排序",
   "icons": [
 	{
+      "name": "Anibilibili",
+      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/anibilibili.png"
+    },
+	{
+      "name": "Movie",
+      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/movie.png"
+    },
+	{
+      "name": "TVseries",
+      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/tvseries.jpeg"
+    },
+	{
       "name": "1111",
       "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/1111.jpeg"
     },
