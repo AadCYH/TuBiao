@@ -86,7 +86,11 @@
       "name": "墨云阁",
       "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/myg.jpeg"
     },
-    {
+	{
+      "name": "NewShip",
+      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/newship.jpeg"
+    },
+	{
       "name": "云海",
       "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/oceancloud.jpeg"
     },
