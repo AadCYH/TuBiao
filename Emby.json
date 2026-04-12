@@ -116,19 +116,23 @@
     },
 	{
       "name": "守候+",
-      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/sntpl.jpeg"
+      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/sntplite.jpeg"
+    },
+	{
+      "name": "夏夜",
+      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/xiaye.jpeg"
+    },
+	{
+      "name": "星瀚",
+      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/xinghan.jpeg"
     },
     {
-      "name": "星瀚",
-      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/xh.jpeg"
+      "name": "星烁",
+      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/xingshuo.jpeg"
     },
     {
       "name": "小胖子",
       "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/xpz.jpeg"
-    },
-    {
-      "name": "星烁",
-      "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/xs.jpeg"
     },
     {
       "name": "叶子高码",
