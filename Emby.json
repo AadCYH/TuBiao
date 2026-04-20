@@ -88,7 +88,7 @@
     "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/myg.jpeg"
     },
     {
-    "name":     "newShip",
+    "name": "NewShip",
     "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/newship.jpeg"
     },
     {
@@ -110,6 +110,10 @@
     {
     "name": "SDX",
     "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/sdx.jpeg"
+    },
+    {
+    "name": "Shrek",
+    "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/shrek.jpeg"
     },
     {
     "name": "守候",
