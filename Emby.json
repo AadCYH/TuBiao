@@ -60,6 +60,10 @@
     "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/iris9.jpeg"
     },
     {
+    "name": "JMS",
+    "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/jms.jpeg"
+    },
+    {
     "name": "Lily",
     "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/lily.jpeg"
     },
@@ -162,6 +166,10 @@
     {
     "name": "银河列车",
     "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/yhlc.jpeg"
-    }
+    },
+    {
+    "name": "终点站",
+    "url": "https://raw.githubusercontent.com/aadcyh/TuBiao/main/Emby/zdz.jpeg"
+    },
   ]
 }
